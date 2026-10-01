@@ -1,0 +1,7 @@
+{
+  "name": "FleetDesk AI - Transport Operations Knowledge Assistant",
+  "description": "Enterprise transport-operations knowledge assistant with strict policy grounding, source citations, role-based permissions, and comparative weak vs. strong prompt evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
